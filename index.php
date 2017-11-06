@@ -1,18 +1,9 @@
 <html>
 <head>
-<title>       </title>
-<style type="text/css">
-<!--
-h1	{text-align:center;
-	font-family:Arial, Helvetica, Sans-Serif;
-	}
-
-p	{text-indent:20px;
-	}
--->
-</style>
+<title>Moreno's </title>
+<link rel="stylesheet" href="style.css">
 </head>
-<body bgcolor = "#ffffcc" text = "#000000">
+<body>
 <h1>Hello, World!</h1>
 
 <p>You can modify the text in the box to the left any way you like, and
